@@ -1,0 +1,2 @@
+# Forecasting-2023-GDP-A-comparative-analysis-of-Predicted-vs-Actual-Economic-Performance
+This project evaluates the accuracy of GDP predictions for 2023 by comparing predicted values with actual outcomes across various countries. Using economic indicators like GDP growth, government spending, trade, and unemployment, the study identifies factors that impact prediction accuracy, aiming to enhance forecasting methods.
